@@ -23,7 +23,8 @@
 
 
 - ✨ Pronouns: She/Her
-- 👩🏽‍💻 I’m a fullstack developer looking to collaborate on Open source projects, Hackathons, and Career Opportunities
+- 👩🏽‍💻 I’m a machine learning and software engineer looking to collaborate on Open source projects, Hackathons, and Career Opportunities.
+- I'm highy interested in applied machine learning projects.
 - ✍🏻 I write about tech on <a href="https://valentinabuoro.hashnode.dev/"> hashnode </a>
 - 📧 You can reach me by email on valentinabuoro4@gmail.com 
 
