@@ -23,8 +23,8 @@
 
 
 - ✨ Pronouns: She/Her
-- 👩🏽‍💻 I’m a machine learning and software engineer looking to collaborate on Open source projects, Hackathons, and Career Opportunities.
-- I'm highy interested in applied machine learning projects.
+- 👩🏽‍💻 I’m a software engineer looking to collaborate on Open source projects, Hackathons, and Career Opportunities.
+- I'm currently working on AI applied projects.
 - ✍🏻 I write about tech on <a href="https://valentinabuoro.hashnode.dev/"> hashnode </a>
 - 📧 You can reach me by email on valentinabuoro4@gmail.com 
 
@@ -33,9 +33,9 @@
 
 
 
-![Valentina-Buoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentina-buoro&show_icons=true&theme=radical)
 
 <!--
+![Valentina-Buoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentina-buoro&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina-buoro&layout=compact&theme=vision-friendly-dark)](https://github.com/valentina-buoro/github-readme-stats)
 
