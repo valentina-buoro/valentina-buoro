@@ -12,9 +12,11 @@
   <a href="https://www.linkedin.com/in/valentina-buoro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-  <a href="https://twitter.com/valentinaBuoro">
+<!--  <a href="https://twitter.com/valentinaBuoro">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  -->
+  
   <a href="https://valentinabuoro.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode_Blog-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Youtube Badge"/>
   </a>
